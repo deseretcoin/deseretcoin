@@ -1,7 +1,6 @@
 Deseret 0.9.0.0 [DSC]
 
-Proof of Work SHA256D Cryptocurrency based on Bitcoin 0.8.99
-
+Proof of Work SHA-D Cryptocurrency based on Bitcoin 0.8.99
 Initual Allocation: 99,000,000 (DCS) 
 Max Coinage: 159,000,000
 
